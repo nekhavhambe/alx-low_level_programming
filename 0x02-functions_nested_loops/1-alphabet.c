@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_alphabet - utilizes on the _putchar function to print the alphabet a - z
-*/
+ * Prints the alphabet ten times.
+ */
 
 void print_alphabet(void)
 {
